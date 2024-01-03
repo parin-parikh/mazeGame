@@ -14,7 +14,7 @@ Welcome to the Maze Game project! This is a simple web-based maze game built usi
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/maze-game.git
+git clone https://github.com/parin-parikh/mazeGame.git
 ```
 
 2. Open `index.html` in your preferred web browser to start the game.
@@ -41,6 +41,6 @@ The game leverages Matter.js to handle physics and collisions. The maze is gener
 
 This project was created as part of a learning experience with Matter.js. Feel free to explore the code, make improvements, and have fun playing the game!
 
-If you encounter any issues or have suggestions for enhancements, please open an issue in the [GitHub repository](https://github.com/parin-parikh/maze-game).
+If you encounter any issues or have suggestions for enhancements, please open an issue in the [GitHub repository](https://github.com/parin-parikh/mazeGame).
 
 Happy gaming! 🎮
