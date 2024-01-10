@@ -33,6 +33,11 @@ git clone https://github.com/parin-parikh/mazeGame.git
 
 The game leverages Matter.js to handle physics and collisions. The maze is generated dynamically, providing a unique experience in each playthrough. The user can control the ball through keyboard input or mouse movement.
 
+## Demo
+
+[View Demo](#https://parin-parikh.github.io/mazeGame/) <!-- Replace with the link to your live demo -->
+
+
 ## Dependencies
 
 - [Matter.js](https://brm.io/matter-js/): A 2D physics engine for the web.
