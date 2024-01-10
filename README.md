@@ -35,7 +35,7 @@ The game leverages Matter.js to handle physics and collisions. The maze is gener
 
 ## Demo
 
-[View Demo](#https://parin-parikh.github.io/mazeGame/) <!-- Replace with the link to your live demo -->
+[View Demo](https://parin-parikh.github.io/mazeGame/) <!-- Replace with the link to your live demo -->
 
 
 ## Dependencies
